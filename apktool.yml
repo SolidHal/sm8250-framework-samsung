@@ -1,0 +1,15 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: framework-samsung.jar
+compressionType: false
+doNotCompress:
+- classes.dex
+isFrameworkApk: false
+packageInfo: null
+sdkInfo:
+  minSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: null
+usesFramework: null
+version: 2.5.1-330294-SNAPSHOT
+versionInfo: null
